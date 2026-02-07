@@ -1,6 +1,6 @@
 # Body Count Rewards
 
-> *Finally, a mod where your body count actually matters.*
+> *Finally, a mod where your body count actually matters.* Yes, the tagline is dumb. No, I won't change it.
 
 A Project Zomboid Build 42 mod that rewards zombie kills with trait upgrades. Earn positive traits or shed negative ones by hitting kill milestones. Fully configurable via Sandbox Options.
 
